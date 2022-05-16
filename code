@@ -6,3 +6,7 @@ frontend:
      -css
      -javascript
 
+backend
+      -django
+      -nodejs
+
